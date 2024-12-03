@@ -3,7 +3,7 @@ name: Run Capture Service with Ngrok
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   run-service:
